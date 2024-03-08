@@ -6,7 +6,7 @@ import { Button } from '@demo/common';
 function App() {
   return (
     <div className="App">
-      <Button textColor="green">Hello, Click Me!</Button>
+      <Button textColor="red">Hello, Click Me!</Button>
     </div>
   );
 }
